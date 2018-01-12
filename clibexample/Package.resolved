@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cfactorial",
+        "repositoryURL": "https://github.com/theswiftdev/cfactorial",
+        "state": {
+          "branch": "master",
+          "revision": "180f9b88575c28da312cdc59f6fb1ed9740d7865",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
